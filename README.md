@@ -60,6 +60,12 @@ $ npx expo start
   <a>
     <img src="https://github.com/edegan-furb/ExpenseTrackerApp/blob/master/assets/Screenshot_1701452420.png" alt="All" title="All Expenses" height="500" width="250">
   </a>
+  <a>
+    <img src="https://github.com/edegan-furb/ExpenseTrackerApp/blob/master/assets/Screenshot_1701452415.png" alt="Add" title="Add Expense" height="500" width="250">
+  </a>
+   <a>
+    <img src="https://github.com/edegan-furb/ExpenseTrackerApp/blob/master/assets/Screenshot_1701452424.png" alt="Edit" title="Edit Expense" height="500" width="250">
+  </a>
 </p>
 
 > Edit and Add Expense Screens.
