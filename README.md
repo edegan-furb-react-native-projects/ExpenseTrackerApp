@@ -53,7 +53,7 @@ $ npx expo start
 
 > Recent Expenses and All Expenses Screens.
 
-<p align="center">
+<p align="left">
   <a>
     <img src="https://github.com/edegan-furb/ExpenseTrackerApp/blob/master/assets/Screenshot_1701452394.png" alt="Recent" title="Recent Expenses" height="500" width="250">
   </a>
@@ -63,7 +63,7 @@ $ npx expo start
 </p>
 
 > Edit and Add Expense Screens.
-<p align="center">
+<p align="left">
   <a>
     <img src="https://github.com/edegan-furb/ExpenseTrackerApp/blob/master/assets/Screenshot_1701452415.png" alt="Add" title="Add Expense" height="500" width="250">
   </a>
